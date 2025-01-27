@@ -10,8 +10,8 @@ Gives buy, sell, or hold recommendations based on the current price vs average p
 Allows users to list all available coins on Binance and view their data.
 Displays data in a user-friendly and interactive GUI.
 Supports refreshing data at a user-defined interval.
-Installation
-Requirements
+
+Installation Requirements
 To run this project, you need to install the following Python libraries:
 
 ccxt
@@ -21,10 +21,8 @@ You can install the required libraries by running:
 
 
 pip install -r requirements.txt
-Clone the Repository
+
 Clone the repository to your local machine:
-
-
 
 git clone https://github.com/kalimero75/megatux-Cyptotracker.git
 cd megatux-Cyptotracker

@@ -29,10 +29,9 @@ cd megatux-Cyptotracker
 Install the dependencies:
 
 pip install -r requirements.txt
+
 Run the application:
-
-
-python crypticker.py
+python3 crypticker.py
 
 Ensure you have a working internet connection as the app fetches real-time data from the Binance exchange.
 Place a logo.png image in the same directory as the script for the app logo to display.

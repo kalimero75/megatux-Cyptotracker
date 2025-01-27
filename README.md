@@ -1,4 +1,5 @@
-Megatux-Crypticker (Cryptoprice
+Megatux-Crypticker (Cryptotracker)
+
 
 This is a simple cryptocurrency market tracker built using ccxt for fetching real-time crypto data and tkinter for the graphical user interface (GUI). It tracks multiple cryptocurrencies and displays their price, volatility, and trend analysis in real-time.
 
